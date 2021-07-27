@@ -6,6 +6,7 @@
 - IV Computación en Ciencias y Letras.
 - Jossue Emmanuel Fuentes.
 - Colegio Santa Catalina Laboure.
+_________________________________________________
 
 ## Portafolio:  👾⛓️[Aquí](http://https://ndmarroquin.github.io/-5-home-page-in-responsive-design/ "Aquí")⛓️
 
